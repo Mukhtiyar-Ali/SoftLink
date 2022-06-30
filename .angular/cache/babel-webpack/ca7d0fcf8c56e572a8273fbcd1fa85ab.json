@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var environment = {\n  production: true,\n  baseURL: 'http://winner00730-001-site1.htempurl.com/'\n};","map":null,"metadata":{},"sourceType":"module"}
