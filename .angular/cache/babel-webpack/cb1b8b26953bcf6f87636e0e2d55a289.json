@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _classCallCheck from \"D:/SoftLink/Web Applictions/Standard Trading/Soft Link/node_modules/@babel/runtime/helpers/esm/classCallCheck\";\nexport var RegisterViewModel = function RegisterViewModel() {\n  _classCallCheck(this, RegisterViewModel);\n};","map":null,"metadata":{},"sourceType":"module"}
